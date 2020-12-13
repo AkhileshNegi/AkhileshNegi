@@ -8,6 +8,9 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
 
 
   #### 📫 How to reach me:
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198820130593/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/negi_akhilesh3)
+  <a href="mailto:akhilesh.negi@coloredcow.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
 ## 🔧 Technologies & Tools
@@ -22,11 +25,13 @@ Here are some ideas to get you started:
 
 ### :newspaper: Blog Posts
 
+- [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics/?utm_source=github&utm_medium=AkhileshNegi)
+
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AkhileshNegi/AkhileshNegi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&hide=java,CSS,hack,html&theme=vue&langs_count=8&layout=compact" />
 </a>
 <a href="https://github.com/AkhileshNegi/AkhileshNegi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Akhilesh's GitHub Stats" />
@@ -53,12 +58,7 @@ Here are some ideas to get you started:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/AkhileshNegi
 [2]: https://github.com/AkhileshNegi
-[3]: https://www.linkedin.com/in/Akhilesh-upreti-3629ab145/
-
-
-
 
 
 <!-- Resources -->

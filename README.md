@@ -19,7 +19,6 @@ I like solving problems through implementing new technologies.
 Currently I am working on:
 
 - [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
-- [open source projects at ColoredCow](https://github.com/coloredcow)
 
 ## 🔧 Technologies & Tools
 

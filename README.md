@@ -1,7 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=AkhileshNegi.AkhileshNegi)
-
 I'm a software developer, and working at <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a>.
 
 <a href="https://twitter.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;

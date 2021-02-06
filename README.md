@@ -22,6 +22,8 @@ Currently I am working on:
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 

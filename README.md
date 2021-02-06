@@ -8,9 +8,11 @@ Get in touch with me on
 <a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 
+
 ### :newspaper: Blog Posts
 
 - [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics/?utm_source=github&utm_medium=AkhileshNegi)
+
 
 ### :computer: Work
 

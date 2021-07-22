@@ -14,7 +14,7 @@ Get in touch with me on
 
 - [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics/?utm_source=github&utm_medium=AkhileshNegi)
 
-- [Boosting automated conversations with EEx](https://coloredcow.com/boosting-automated-conversations-with-eex/?utm_source=github&utm_medium=AkhileshNegi)/
+- [Boosting automated conversations with EEx](https://coloredcow.com/boosting-automated-conversations-with-eex/?utm_source=github&utm_medium=AkhileshNegi)
 
 
 ### :computer: Work

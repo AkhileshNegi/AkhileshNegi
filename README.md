@@ -18,6 +18,7 @@ Get in touch with me on
 ### :computer: Work
 
 Finding meaningful solutions in a scalable way.
+
 Currently I am working on:
 
 - [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp

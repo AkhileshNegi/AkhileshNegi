@@ -24,6 +24,7 @@ Finding meaningful solutions in a scalable way.
 Currently I am working on:
 
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
 ## 🔧 Technologies & Tools
 

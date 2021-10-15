@@ -33,7 +33,8 @@ Currently I am working on:
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Gigalixir-informational?style=flat&logo=Gatsby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Storage-BigQuery-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Reports-DataStudio-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 

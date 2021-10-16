@@ -26,6 +26,13 @@ Currently I am working on:
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
+
+### 🗣️ Webinars
+
+- [Data Analytics with BigQuery and DataStudio](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
+- [Deployment with Gigalixir](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
+- [Cypress Intergration in Glific](https://www.youtube.com/watch?v=xve1LDH7vxw&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=6)
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)

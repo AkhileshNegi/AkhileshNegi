@@ -44,7 +44,7 @@ Currently I am working on:
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Workflows-CI&CD-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Storage-BigQuery-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Reports-DataStudio-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Analytics-DataStudio-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 

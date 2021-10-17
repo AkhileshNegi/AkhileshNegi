@@ -12,9 +12,11 @@ Get in touch with me on
 
 ### :newspaper: Blog Posts
 
-- [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics/?utm_source=github&utm_medium=AkhileshNegi)
+- [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics)
 
-- [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex/?utm_source=github&utm_medium=AkhileshNegi)
+- [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex)
+
+- [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://coloredcow.com/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
 
 
 ### :computer: Work

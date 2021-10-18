@@ -16,7 +16,7 @@ Get in touch with me on
 
 - [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex)
 
-- [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://coloredcow.com/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
+- [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://glific.org/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
 
 
 ### :computer: Work

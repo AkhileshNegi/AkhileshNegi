@@ -65,7 +65,7 @@ Currently I am working on:
 
 ## &#x1f4c8; GitHub Stats
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&theme=vue" width = 450>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AkhileshNegi" width = 450>
+  <img src = "https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&theme=vue" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AkhileshNegi" width = 400>
 </p>
 

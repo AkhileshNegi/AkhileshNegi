@@ -43,6 +43,7 @@ Currently I am working on:
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;&nbsp;
 ![Cube.js](https://img.shields.io/badge/-Cube.js-black?logo=nintendogamecube&style=social)&nbsp;&nbsp;
@@ -50,9 +51,11 @@ Currently I am working on:
 ![Gigalixir](https://img.shields.io/badge/-Gigalixir-black?logo=Gatsby&style=social&logoColor=grey)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
 ![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
+
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
 
 ## &#x1f4c8; GitHub Stats

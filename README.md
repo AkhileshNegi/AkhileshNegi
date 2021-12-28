@@ -51,14 +51,11 @@ Finding meaningful solutions in a scalable way.
 ![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
 ![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
-
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
 
 ### 🏆 GitHub Trophies
 
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&theme=oldie&column=9)
-
 
 ### &#x1f4c8; GitHub Stats
 <p align = "left">

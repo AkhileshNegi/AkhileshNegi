@@ -38,16 +38,22 @@ Currently I am working on:
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Terminal-iTerm2-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Deploy-Gigalixir-informational?style=flat&logo=Gatsby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Workflows-CI&CD-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Storage-BigQuery-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Analytics-DataStudio-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
+![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
+![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
+![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;&nbsp;
+![Cube.js](https://img.shields.io/badge/-Cube.js-black?logo=nintendogamecube&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Gigalixir](https://img.shields.io/badge/-Gigalixir-black?logo=Gatsby&style=social&logoColor=grey)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
+![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
 
 ## &#x1f4c8; GitHub Stats
 

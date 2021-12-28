@@ -58,12 +58,14 @@ Currently I am working on:
 
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&theme=oldie&column=9)
+
+
 ## &#x1f4c8; GitHub Stats
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars&hide_rank=true" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshNegi" alt="Github Streak Stats">
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&theme=vue" width = 450>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AkhileshNegi" width = 450>
 </p>
 

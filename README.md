@@ -36,7 +36,7 @@ Currently I am working on:
 - [Deployment with Gigalixir](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
 - [Cypress Integration in Glific](https://www.youtube.com/watch?v=xve1LDH7vxw&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=6)
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
@@ -58,12 +58,13 @@ Currently I am working on:
 
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&theme=oldie&column=9)
 
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&theme=vue" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AkhileshNegi" width = 400>

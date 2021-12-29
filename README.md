@@ -55,7 +55,8 @@ Finding meaningful solutions in a scalable way.
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=15&theme=oldie&column=9)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi)](https://github.com/AkhileshNegi/github-profile-trophy)
+
 
 ### &#x1f4c8; GitHub Stats
 <p align = "left">

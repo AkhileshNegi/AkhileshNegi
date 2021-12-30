@@ -23,7 +23,7 @@ Finding meaningful solutions in a scalable way.
 
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
-- [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js.
+- [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
 
 
 ### 🗣️ Webinars

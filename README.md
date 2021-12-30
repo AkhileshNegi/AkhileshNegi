@@ -15,6 +15,7 @@ Get in touch with me on
 - [BigQuery and DataStudio: A solution to Analytics](https://coloredcow.com/bigquery-and-datastudio-a-solution-to-analytics)
 - [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex)
 - [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://glific.org/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
+- [How custom DataStudio Reports can contribute to building foundations for lifelong learning](https://coloredcow.com/how-custom-datastudio-reports-can-contribute-to-building-foundations-for-lifelong-learning/)
 
 
 ### :computer: Work

@@ -50,6 +50,7 @@ Finding meaningful solutions in a scalable way.
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-black?logo=cypress&style=social)&nbsp;&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
 ![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->

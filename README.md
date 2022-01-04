@@ -33,7 +33,7 @@ Finding meaningful solutions in a scalable way.
 - [Deployment with Gigalixir](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
 - [Cypress Integration in Glific](https://www.youtube.com/watch?v=xve1LDH7vxw&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=6)
 
-### 🔧 Technologies & Tools
+### 🔧 Tools  & Technologies
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;

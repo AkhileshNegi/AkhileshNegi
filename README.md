@@ -54,7 +54,8 @@ Finding meaningful solutions in a scalable way.
 ![Cypress](https://img.shields.io/badge/-Cypress-black?logo=cypress&style=social)&nbsp;&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
 ![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
-<!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp; -->
+![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
 
 ### 🏆 GitHub Trophies
 

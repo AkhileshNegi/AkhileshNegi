@@ -15,6 +15,7 @@ Get in touch with me on
 - [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://glific.org/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
 - [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex)
 - [How custom DataStudio Reports can contribute to building foundations for lifelong learning](https://coloredcow.com/how-custom-datastudio-reports-can-contribute-to-building-foundations-for-lifelong-learning/)
+- [Helping differently abled households through chatbot](https://coloredcow.com/helping-differently-abled-households-through-chatbot/)
 - [How custom Dashboard can boost your Chatbot](https://coloredcow.com/how-custom-dashboard-can-boost-your-chatbot/)
 
 

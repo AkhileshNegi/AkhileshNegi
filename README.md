@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! 👋
 
 I like finding innovative solutions to simple problems and working at <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> as a software developer. Find more about my work through my social media and blog posts.
 Get in touch with me on

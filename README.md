@@ -1,4 +1,4 @@
-# Hello, folks! 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/wave.gif" width="40">
 
 I like finding innovative solutions to simple problems and working at <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> as a software developer. Find more about my work through my social media and blog posts.
 Get in touch with me on

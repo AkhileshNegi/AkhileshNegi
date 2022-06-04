@@ -40,8 +40,8 @@ Finding meaningful solutions in a scalable way.
 
 Mentoring is a great opportunity to give back to your community, and I've recently begun mentoring students interested in software development.
 
-- [CodeTrek](https://coloredcow.com/codetrek-session/a-bootcamp-on-latest-functional-programming-language-elixir/?utm_source=github&utm_medium=akhileshnegi)
-- [Women in Tech](https://coloredcow.com/women-in-tech/?utm_source=github&utm_medium=akhileshnegi)
+- [CodeTrek](https://coloredcow.com/codetrek-session/a-bootcamp-on-latest-functional-programming-language-elixir/?utm_source=github&utm_medium=akhileshnegi) - A <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> initiative to bridge the skill gap
+- [Women in Tech](https://coloredcow.com/women-in-tech/?utm_source=github&utm_medium=akhileshnegi) - Empowering women students to thrive in the tech world
 
 ### 🔧 Tools  & Technologies
 

@@ -35,6 +35,14 @@ Finding meaningful solutions in a scalable way.
 - [Deployment with Gigalixir](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
 - [Cypress Integration in Glific](https://www.youtube.com/watch?v=xve1LDH7vxw&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=6)
 
+
+### :mortar_board: Started Mentoring!
+
+Mentoring is a great opportunity to give back to your community, and I've recently begun mentoring students interested in software development.
+
+- [CodeTrek](https://coloredcow.com/codetrek-session/a-bootcamp-on-latest-functional-programming-language-elixir/?utm_source=github&utm_medium=akhileshnegi)
+- [Women in Tech](https://coloredcow.com/women-in-tech/?utm_source=github&utm_medium=akhileshnegi)
+
 ### 🔧 Tools  & Technologies
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;

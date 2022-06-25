@@ -70,7 +70,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=15)](https://github.com/AkhileshNegi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5)](https://github.com/AkhileshNegi/github-profile-trophy)
 
 
 ### &#x1f4c8; GitHub Stats

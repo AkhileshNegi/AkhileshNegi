@@ -53,6 +53,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
+![Frappe](https://img.shields.io/badge/-Frappe-black?logo=python&style=social)&nbsp;&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/-R-black?logo=r&style=social)&nbsp;&nbsp;

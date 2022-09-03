@@ -13,6 +13,7 @@ Get in touch with me on
 ### :newspaper: Blog Posts
 
 - [M & E in Digital Green’s Farmer Chatbot](https://glific.org/m-e-in-digital-greens-farmer-chatbot/)
+- [Visualizing citizen engagement of Chatbot](https://coloredcow.com/visualizing-citizen-engagement-of-chatbot/)
 - [Multiple Profiles: A possible way to increase chatbot’s reach beyond one person per number](https://coloredcow.com/one-whatsapp-multiple-profiles/)
 - [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://glific.org/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
 - [Boosting automated conversations with Embedded Elixir(EEx)](https://coloredcow.com/boosting-automated-conversations-with-eex)

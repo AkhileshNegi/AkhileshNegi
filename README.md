@@ -36,6 +36,7 @@ Finding meaningful solutions in a scalable way.
 - [Data Analytics with BigQuery and DataStudio](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
 - [Deployment with Gigalixir](https://www.youtube.com/watch?v=txdrTLgchvs&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=5)
 - [Cypress Integration in Glific](https://www.youtube.com/watch?v=xve1LDH7vxw&list=PLn1_vUUOj6IHS9S84qbc0-cIjXeB-KBiN&index=6)
+- [Glific Demo on Multiple Profiles in Chatbot](https://youtu.be/csOGHfb4g3s)
 
 
 ### :mortar_board: Started Mentoring!

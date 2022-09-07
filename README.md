@@ -8,7 +8,6 @@ Get in touch with me on
 <a href="https://instagram.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;
 <a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
-<a href="https://exercism.org/profiles/AkhileshNegi"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/exercism.svg"></a>
 
 ### :newspaper: Blog Posts
 

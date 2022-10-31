@@ -30,7 +30,7 @@ Finding meaningful solutions in a scalable way.
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
-- [R mapping]([https://github.com/ColoredCow/portal-analytics](https://github.com/glific/Rmapping)) - Mapping POC for Reapbenefit using R
+- [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
 
 
 ### 🗣️ Webinars

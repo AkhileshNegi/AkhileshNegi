@@ -19,6 +19,8 @@ Get in touch with me on
 - [How custom DataStudio Reports can contribute to building foundations for lifelong learning](https://coloredcow.com/how-custom-datastudio-reports-can-contribute-to-building-foundations-for-lifelong-learning/)
 - [Helping differently abled households through chatbot](https://coloredcow.com/helping-differently-abled-households-through-chatbot/)
 - [How custom Dashboard can boost your Chatbot](https://coloredcow.com/how-custom-dashboard-can-boost-your-chatbot/)
+- [Integrating Google Sheets in Glific](https://coloredcow.com/integrating-google-sheets-in-glific/)
+- [Experiments with Frappe as CRM in Glific](https://coloredcow.com/experiments-with-frappe-as-crm-in-glific/)
 
 
 ### :computer: Work
@@ -28,6 +30,7 @@ Finding meaningful solutions in a scalable way.
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
+- [R mapping]([https://github.com/ColoredCow/portal-analytics](https://github.com/glific/Rmapping)) - Mapping POC for Reapbenefit using R
 
 
 ### 🗣️ Webinars

@@ -21,7 +21,7 @@ Get in touch with me on
 - [How custom Dashboard can boost your Chatbot](https://coloredcow.com/how-custom-dashboard-can-boost-your-chatbot/)
 - [Integrating Google Sheets in Glific](https://coloredcow.com/integrating-google-sheets-in-glific/)
 - [Experiments with Frappe as CRM in Glific](https://coloredcow.com/experiments-with-frappe-as-crm-in-glific/)
-
+- [Internal Dashboard comes to Glific](https://glific.org/internal-dashboard-comes-into-glific/)
 
 ### :computer: Work
 

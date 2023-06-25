@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/wave.gif" width="40">
 
-I like finding innovative solutions to simple problems and working at <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> as a software developer. Find more about my work through my social media and blog posts.
+I like finding innovative solutions to simple problems. Find more about my work through my social media and blog posts.
 Get in touch with me on
 
 <a href="https://twitter.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
@@ -23,6 +23,7 @@ Get in touch with me on
 - [Boosting Indus Action’s Tech-Enabled Caregiver Program in Tamil Nadu using Gsheet Integration](https://glific.org/boosting-indus-actions-tech-enabled-caregiver-program-in-tamil-nadu-using-gsheet-integration/)
 - [Experiments with Frappe as CRM in Glific](https://coloredcow.com/experiments-with-frappe-as-crm-in-glific/)
 - [Internal Dashboard comes to Glific](https://glific.org/internal-dashboard-comes-into-glific/)
+- [Chatbot comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
 
 
 ### :computer: Work

@@ -24,6 +24,7 @@ Get in touch with me on
 - [Experiments with Frappe as CRM in Glific](https://coloredcow.com/experiments-with-frappe-as-crm-in-glific/)
 - [Internal Dashboard comes to Glific](https://glific.org/internal-dashboard-comes-into-glific/)
 - [Chatbot comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
+- [ChatGPT Unleashed: Journey to production and preparing for launch on Glific](https://glific.org/chatgpt-unleashed-journey-to-production-and-preparing-for-launch-on-glific/)
 
 
 ### :computer: Work
@@ -50,6 +51,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 
 - [CodeTrek](https://coloredcow.com/codetrek/) - A <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> initiative to bridge the skill gap
 - [Women in Tech](https://coloredcow.com/women-in-tech/?utm_source=github&utm_medium=akhileshnegi) - Empowering women students to thrive in the tech world
+- [Code 4 GovTech](https://www.codeforgovtech.in/?utm_source=github&utm_medium=akhileshnegi) - India’s first active open-source community of coders that can build and contribute to global Digital Public Goods
 
 ### 🔧 Tools  & Technologies
 

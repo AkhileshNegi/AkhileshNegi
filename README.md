@@ -9,6 +9,8 @@ Get in touch with me on
 <a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;
 <a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
 
+<!-- <img align="right" alt="GIF" src="https://github.com/AkhileshNegi/AkhileshNegi/assets/40158831/44a187c2-f374-4f7b-8ca3-bef8759327e3" width="300px" height="400px"/> -->
+
 ### :newspaper: Blog Posts
 
 - [M & E in Digital Green’s Farmer Chatbot](https://glific.org/m-e-in-digital-greens-farmer-chatbot/)

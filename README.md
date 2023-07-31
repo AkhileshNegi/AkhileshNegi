@@ -9,7 +9,6 @@ Get in touch with me on
 <a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;
 <a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
 
-<!-- <img align="right" alt="GIF" src="https://github.com/AkhileshNegi/AkhileshNegi/assets/40158831/44a187c2-f374-4f7b-8ca3-bef8759327e3" width="300px" height="400px"/> -->
 
 ### :newspaper: Blog Posts
 
@@ -50,6 +49,8 @@ Finding meaningful solutions in a scalable way.
 ### :mortar_board: Started Mentoring!
 
 Mentoring is a great opportunity to give back to your community, and I've recently begun mentoring students interested in software development.
+
+<img align="left" alt="GIF" src="https://github.com/AkhileshNegi/AkhileshNegi/assets/40158831/007ad621-1cbf-446d-ab6c-688f01f8c81b" width="120px" height="100px"/>
 
 - [CodeTrek](https://coloredcow.com/codetrek/) - A <a href="https://coloredcow.com?utm_source=github&utm_medium=AkhileshNegi">ColoredCow</a> initiative to bridge the skill gap
 - [Women in Tech](https://coloredcow.com/women-in-tech/?utm_source=github&utm_medium=akhileshnegi) - Empowering women students to thrive in the tech world

@@ -90,11 +90,6 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 
 
 ### &#x1f4c8; GitHub Stats
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&theme=vue" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AkhileshNegi" width = 400>
-</p>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhileshNegi&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />

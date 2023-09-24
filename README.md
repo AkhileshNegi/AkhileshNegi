@@ -36,7 +36,7 @@ Finding meaningful solutions in a scalable way.
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
 - [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
-- [Open LLM](https://github.com/glific/Open-LLM) - LLM leveraging OpenAI API to be used via Glific via webhooks
+- [Open LLM](https://github.com/glific/Open-LLM) - LLM leveraging OpenAI API to be used in Glific via webhooks
 
 
 ### 🗣️ Webinars

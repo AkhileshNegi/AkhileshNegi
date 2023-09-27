@@ -83,6 +83,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
 ![Frappe](https://img.shields.io/badge/-Frappe-black?logo=python&style=social)&nbsp;&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?logo=openai&style=social)&nbsp;&nbsp;
 
 ### 🏆 GitHub Trophies
 

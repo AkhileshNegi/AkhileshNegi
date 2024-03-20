@@ -24,7 +24,7 @@ Get in touch with me on
 - [Boosting Indus Action’s Tech-Enabled Caregiver Program in Tamil Nadu using Gsheet Integration](https://glific.org/boosting-indus-actions-tech-enabled-caregiver-program-in-tamil-nadu-using-gsheet-integration/)
 - [Experiments with Frappe as CRM in Glific](https://glific.org/experiments-with-frappe-as-crm-in-glific/)
 - [Internal Dashboard comes to Glific](https://glific.org/internal-dashboard-comes-into-glific/)
-- [Chatbot comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
+- [ChatGPT comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
 - [ChatGPT Unleashed: Journey to production and preparing for launch on Glific](https://glific.org/chatgpt-unleashed-journey-to-production-and-preparing-for-launch-on-glific/)
 
 

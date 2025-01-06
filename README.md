@@ -38,6 +38,10 @@ Finding meaningful solutions in a scalable way.
 - [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
 - [Open LLM](https://github.com/glific/Open-LLM) - LLM leveraging OpenAI API to be used in Glific via webhooks
 
+### :mega: Public speakings
+- **ElixirConf 2024:** [Glific: Our Journey in adopting and working with Elixir](https://www.youtube.com/watch?v=oBjOsnMnkNI)
+- **India FOSS 3.0:** [Panel Discussion on FOSS for social good](https://www.youtube.com/watch?v=PR6BtqCLXtw)
+
 
 ### 🗣️ Webinars
 

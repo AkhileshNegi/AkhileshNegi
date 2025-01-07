@@ -10,22 +10,58 @@ Get in touch with me on
 <a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
 
 
+
+
+
 ### :newspaper: Blog Posts
 
+
+<details>
+  <summary> AI Blogs </summary>
+  
+  - [Enhancing Communication with AI and Text-to-Speech in Glific](https://glific.org/enhancing-communication-with-ai-and-text-to-speech-in-glific/)
+
+  - [From Experiments to Integration in Glific: LLM Journey so far](https://glific.org/enhancing-communication-with-ai-and-text-to-speech-in-glific/)
+
+  - [ChatGPT Unleashed: Journey to production and preparing for launch on Glific](https://glific.org/chatgpt-unleashed-journey-to-production-and-preparing-for-launch-on-glific/)
+
+  - [ChatGPT comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
+
+</details>
+
+
+<details>
+  <summary> Social Impact Blogs </summary>
+
+
+- [Sprints, Connections, and Impact across cities](https://projecttech4dev.org/sprints-connections-and-impact-across-cities/)
+
 - [M & E in Digital Green’s Farmer Chatbot](https://glific.org/m-e-in-digital-greens-farmer-chatbot/)
+
 - [Visualizing citizen engagement of Chatbot](https://glific.org/visualizing-citizen-engagement-of-chatbot/)
+
 - [Multiple Profiles: A possible way to increase chatbot’s reach beyond one person per number](https://glific.org/one-whatsapp-multiple-profiles/)
+
 - [How BigQuery and WhatsApp is helping teachers with their students report in Haryana](https://glific.org/how-bigquery-and-whatsapp-is-helping-teachers-with-their-students-report-in-haryana)
+
 - [Boosting automated conversations with Embedded Elixir(EEx)](https://glific.org/boosting-automated-conversations-with-eex/)
+
 - [How custom DataStudio Reports can contribute to building foundations for lifelong learning](https://glific.org/how-custom-datastudio-reports-can-contribute-to-building-foundations-for-lifelong-learning/)
+
 - [Helping differently abled households through chatbot](https://glific.org/helping-differently-abled-households-through-chatbot/)
+
 - [How custom Dashboard can boost your Chatbot](https://glific.org/how-custom-dashboard-can-boost-your-chatbot/)
+
 - [Integrating Google Sheets in Glific](https://glific.org/integrating-google-sheets-in-glific/)
+
 - [Boosting Indus Action’s Tech-Enabled Caregiver Program in Tamil Nadu using Gsheet Integration](https://glific.org/boosting-indus-actions-tech-enabled-caregiver-program-in-tamil-nadu-using-gsheet-integration/)
+
 - [Experiments with Frappe as CRM in Glific](https://glific.org/experiments-with-frappe-as-crm-in-glific/)
+
 - [Internal Dashboard comes to Glific](https://glific.org/internal-dashboard-comes-into-glific/)
-- [ChatGPT comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
-- [ChatGPT Unleashed: Journey to production and preparing for launch on Glific](https://glific.org/chatgpt-unleashed-journey-to-production-and-preparing-for-launch-on-glific/)
+
+</details>
+
 
 
 ### :computer: Work

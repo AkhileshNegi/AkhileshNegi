@@ -127,13 +127,13 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5)](https://github.com/AkhileshNegi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5&row=1)](https://github.com/AkhileshNegi/github-profile-trophy)
 
 
 ### &#x1f4c8; GitHub Stats
 
 <p align="left">
   <img align="center" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshNegi"/>
-<!--   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" /> -->
+ <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshNegi&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" /> 
 </p>
 

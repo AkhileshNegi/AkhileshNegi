@@ -7,8 +7,7 @@ Get in touch with me on
 <a href="https://discordapp.com/users/akhilesh#8614"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;
 <a href="https://instagram.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;
-<a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
-
+<a href="mailto:akhilesh@projecttech4dev.org"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;
 
 
 
@@ -18,13 +17,12 @@ Get in touch with me on
 
 <details>
   <summary> AI Blogs </summary>
-  
+
+  - [AI Evaluation: From ‘Seems Good’ to ‘Scores Good’](https://projecttech4dev.org/ai-evaluation-from-seems-good-to-scores-good/)   
+  - [Fine-Tuning for Chatbots: Smarter Conversations, Less Noise](https://projecttech4dev.org/fine-tuning-for-chatbots-smarter-conversations-less-noise/)
   - [Enhancing Communication with AI and Text-to-Speech in Glific](https://glific.org/enhancing-communication-with-ai-and-text-to-speech-in-glific/)
-
-  - [From Experiments to Integration in Glific: LLM Journey so far](https://glific.org/enhancing-communication-with-ai-and-text-to-speech-in-glific/)
-
+  - [From Experiments to Integration in Glific: LLM Journey so far](https://glific.org/from-experiments-to-integration-in-glific-llm-journey-so-far/)
   - [ChatGPT Unleashed: Journey to production and preparing for launch on Glific](https://glific.org/chatgpt-unleashed-journey-to-production-and-preparing-for-launch-on-glific/)
-
   - [ChatGPT comes to Glific](https://glific.org/chatgpt-comes-to-glific/)
 
 </details>
@@ -73,6 +71,7 @@ Finding meaningful solutions in a scalable way.
 - [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
 - [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
 - [Open LLM](https://github.com/glific/Open-LLM) - LLM leveraging OpenAI API to be used in Glific via webhooks
+- [Kaapi](https://github.com/ProjectTech4DevAI/kaapi-backend) - Responsible AI Infra for the development sector
 
 ### :mega: Public speakings
 - **ElixirConf 2024:** [Glific: Our Journey in adopting and working with Elixir](https://www.youtube.com/watch?v=oBjOsnMnkNI)

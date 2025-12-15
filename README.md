@@ -66,12 +66,12 @@ Get in touch with me on
 
 Finding meaningful solutions in a scalable way.
 
+- [Kaapi](https://github.com/ProjectTech4DevAI/kaapi-backend) - Responsible AI Infra for the development sector
 - [Glific](https://glific.org) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Portal Analytics](https://github.com/ColoredCow/portal-analytics) - Generating analytics for the ColoredCow Portal using Cube.js
 - [R mapping](https://github.com/glific/Rmapping) - Mapping POC for Reapbenefit using R
 - [Open LLM](https://github.com/glific/Open-LLM) - LLM leveraging OpenAI API to be used in Glific via webhooks
-- [Kaapi](https://github.com/ProjectTech4DevAI/kaapi-backend) - Responsible AI Infra for the development sector
 
 ### :mega: Public speakings
 - **ElixirConf 2024:** [Glific: Our Journey in adopting and working with Elixir](https://www.youtube.com/watch?v=oBjOsnMnkNI)
@@ -102,7 +102,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;&nbsp;
@@ -113,6 +113,7 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![Gigalixir](https://img.shields.io/badge/-Gigalixir-black?logo=Gatsby&style=social&logoColor=grey)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
+![Codecov](https://img.shields.io/badge/-Codecov-black?logo=codecov&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![CI&CD](https://img.shields.io/badge/-CI&CD-black?logo=githubactions&style=social&logoColor=black)&nbsp;&nbsp;
@@ -121,8 +122,10 @@ Mentoring is a great opportunity to give back to your community, and I've recent
 ![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
-![Frappe](https://img.shields.io/badge/-Frappe-black?logo=python&style=social)&nbsp;&nbsp;
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?logo=openai&style=social)&nbsp;&nbsp;
+![Frappe](https://img.shields.io/badge/-Frappe-black?logo=frappe&style=social)&nbsp;&nbsp;
+![ChatGPT](https://img.shields.io/badge/-OpenAI-black?logo=openai&style=social)&nbsp;&nbsp;
+![Claude](https://img.shields.io/badge/-Claude-black?logo=claude&style=social)&nbsp;&nbsp;
+
 
 ### 🏆 GitHub Trophies
 

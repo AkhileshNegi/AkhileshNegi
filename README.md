@@ -76,6 +76,7 @@ Finding meaningful solutions in a scalable way.
 ### :mega: Public speakings
 - **ElixirConf 2024:** [Glific: Our Journey in adopting and working with Elixir](https://www.youtube.com/watch?v=oBjOsnMnkNI)
 - **India FOSS 3.0:** [Panel Discussion on FOSS for social good](https://www.youtube.com/watch?v=PR6BtqCLXtw)
+- **AI Cohort:** [AI Evaluation](https://youtu.be/gyn0tgvAj0A?si=RIck-RMRIrFgXyB_)
 
 
 ### 🗣️ Webinars

@@ -18,7 +18,8 @@ Get in touch with me on
 <details>
   <summary> AI Blogs </summary>
 
-  - [AI Evaluation: From ‘Seems Good’ to ‘Scores Good’](https://projecttech4dev.org/ai-evaluation-from-seems-good-to-scores-good/)   
+  - [AI Evaluation: From ‘Seems Good’ to ‘Scores Good’](https://projecttech4dev.org/ai-evaluation-from-seems-good-to-scores-good/)
+  - [Ship with confidence, not just a working POC: An Evaluation-First Approach to Building a Multilingual Policy Chatbot](https://projecttech4dev.org/ship-with-confidence-not-just-a-working-poc-an-evaluation-first-approach-to-building-a-multilingual-policy-chatbot/)  
   - [Fine-Tuning for Chatbots: Smarter Conversations, Less Noise](https://projecttech4dev.org/fine-tuning-for-chatbots-smarter-conversations-less-noise/)
   - [Enhancing Communication with AI and Text-to-Speech in Glific](https://glific.org/enhancing-communication-with-ai-and-text-to-speech-in-glific/)
   - [From Experiments to Integration in Glific: LLM Journey so far](https://glific.org/from-experiments-to-integration-in-glific-llm-journey-so-far/)
